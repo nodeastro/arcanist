@@ -1,3 +1,5 @@
+Forked to allow for custom error messages and Session integration by https://github.com/bfiessinger
+
 ![](logo.png)
 
 ## Installation
